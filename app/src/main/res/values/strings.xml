@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">XMPPDemo</string>
+    <string name="codeurl">http://github.com/ashutosh2k12</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <!-- Login Screen -->
+    <string name="login_heading">Login</string>
+    <string name="login_failed">Login Failed!!</string>
+    <string name="login_btn">login</string>
+    <string name="connection_closed">Connection error with server. Aborting!!</string>
+    <string name="blank_login">Please enter username and password</string>
+
+    <!-- Signup Screen  -->
+    <string name="signup_heading">Signup</string>
+    <string name="signup_btn">signup</string>
+    <string name="signup_failed">Signup Failed!!</string>
+    <string name="signup_failed_userexist">User already Exists</string>
+    <string name="signup_success">Registration complete</string>
+
+    <!-- Add user Screen -->
+    <string name="empty_user_jid">User jid can not be empty</string>
+    <string name="add_request_yes">Accept</string>
+    <string name="add_request_no">Reject</string>
+    <string name="send_request_hint">Jabber ID of user</string>
+    <string name="send_request_btn">Send Request</string>
+
+    <!-- Menu -->
+    <string name="code">Code</string>
+    <string name="about">About</string>
+
+    <!-- About Dialog -->
+    <string name="about_body"><![CDATA[
+        Author: <b><a href="http://github.com/ashutosh2k12">Ashutosh Chaudhary</a></b><br>
+        <br>
+        View: <a href="https://github.com/ashutosh2k12/xmppdemo">Source and doc</a><br>
+        <br><br>
+        <b>Thanks to:</b><br>
+        <b><a href="http://www.igniterealtime.org/projects/smack">Smack</a></b><br>
+        <i>by <a href="http://www.igniterealtime.org/">Ignite Realtime</a></i><br><br>
+        <br><br>
+        <b>My website: </b><br>
+        <b><a href="http://aboutashu.com">aboutashu.com</a></b>
+    ]]></string>
+
+</resources>
